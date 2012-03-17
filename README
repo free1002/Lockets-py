@@ -1,0 +1,10 @@
+== introduction ==
+Python implementation for https://github.com/netroy/Lockets - realtime log viewer
+
+== install ==
+pip install gevent-socketio
+pip install watchdog
+
+== run server ==
+2. python app.py
+
