@@ -6,5 +6,5 @@ pip install gevent-socketio
 pip install watchdog
 
 == run server ==
-2. python app.py
-
+python app.py
+open http://localhost:8080/index.html
