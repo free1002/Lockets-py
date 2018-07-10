@@ -8,3 +8,5 @@ pip install watchdog
 == run server ==
 python app.py
 open http://localhost:8080/index.html
+
+testing..
